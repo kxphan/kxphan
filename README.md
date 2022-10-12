@@ -1,4 +1,5 @@
-### Hi there 👋
+### hi, i'm kat 👋🏽
+👩🏻‍💻 for more about me, see [kxphan.com](https://www.kxphan.com)
 
 <!--
 **kxphan/kxphan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
